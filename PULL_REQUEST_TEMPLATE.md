@@ -5,14 +5,14 @@ Please take a quick look at those things down there. They're quite important.
 Really! We wrote them for you. Yes you! With utmost care. Read them.
 -->
 
-**For short term contributors:** we understand that getting your commits well
+***For short term contributors:** we understand that getting your commits well
 defined like we require is a hard task and takes some learning. If you
 look to help without wanting to contribute long term there's no need
 for you to learn this. Just drop us a message and we'll take care of brushing
 up your stuff for merge!
 
 ### Checklist
-
+And 
 - [ ] I read the [commit guidelines](http://coala.io/commit) and I've followed
       them.
 - [ ] I ran coala over my code locally. (*All commits have to pass
